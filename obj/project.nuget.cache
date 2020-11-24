@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dX9kyAE6ubcjHYHGFD7whNxhdZe19fscs/y5wqsSHoJ9km0vrcl2mbiaYC/35XhytaZZ/MLiZYk0TGU7RjwDcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\apagnoncelli\\Desktop\\MLP_FSharp\\FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apagnoncelli\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
